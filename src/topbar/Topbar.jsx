@@ -24,7 +24,7 @@ const Topbar = () => {
           alt="profile-pic"
           className="topImg"
         />
-        <i class="topSearchIcon fa-solid fa-magnifying-glass"></i>
+        <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
       </div>
     </div>
   );
