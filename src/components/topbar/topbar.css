@@ -15,12 +15,12 @@
   justify-content: center;
   align-items: center;
   display: flex;
-  background-color: azure;
+
   height: 100%;
 }
 .topCenter {
   flex: 6;
-  background-color: blanchedalmond;
+
   align-items: center;
   display: flex;
   justify-content: center;
